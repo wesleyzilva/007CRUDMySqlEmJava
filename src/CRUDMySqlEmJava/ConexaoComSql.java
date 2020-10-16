@@ -1,4 +1,7 @@
 package CRUDMySqlEmJava;
+/*Importar o driver no projeto via IDE
+ *Clique em na pasta de projetos > Propriedades > Java Build Path > Libraries > Importar o driver jar
+*/
 
 import java.util.Date;
 
