@@ -1,5 +1,5 @@
 package factory;
-
+//CURSO https://www.youtube.com/watch?v=-2Qgpe7T5tc
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
@@ -27,7 +27,9 @@ public class ConnectionsFactory {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
+		System.out.println("");
 		return Connection;
+		
 	}
 
 	// Padrão SingleTon de projeto para garantir apenas uma conexão com o DB
