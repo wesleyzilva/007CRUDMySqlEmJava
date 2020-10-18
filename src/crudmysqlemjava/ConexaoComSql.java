@@ -1,4 +1,4 @@
-package CRUDMySqlEmJava;
+package crudmysqlemjava;
 /*Importar o driver no projeto via IDE
  *Clique em na pasta de projetos > Propriedades > Java Build Path > Libraries > Importar o driver jar
 */
